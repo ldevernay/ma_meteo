@@ -11,3 +11,4 @@ Les deux combinés forment une alternative solide à Google Maps (par exemple).
 
 ## Bonus
 * Lorsque je clique sur un marqueur, je veux afficher une popup indiquant la météo à cet endroit (avec OpenWeatherMap API). Ce ne sera pas spectaculaire si vous choisissez des points rapprochés alors faites-vous plaisir en plaçant des points un peu partout en France voire dans le monde. 
+* Je veux que les données météo soient automatiquement rafraîchies quand je clique sur un marqueur.
